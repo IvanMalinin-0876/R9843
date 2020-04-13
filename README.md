@@ -16,6 +16,7 @@ R9843 - Стек: NodeJs, npm, HTML, CSS Socket.io
 
 копия проекта расположена по ссылке
 http://213.226.112.96/dist/webid/index.php?share/folder&user=104&sid=quezZEPB
+git  https://github.com/IvanMalinin-0876/R9843
 
 
 
