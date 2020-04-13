@@ -3,7 +3,7 @@ R9843 - Стек: NodeJs, npm, HTML, CSS Socket.io
 Приложение чата
 
 Распаковать 
-Открыть консоль в папке проекта
+Открыть консоль в папке проекта (Code Web)
 - cd npm install
 - npm i express
 - npm i socket.io
